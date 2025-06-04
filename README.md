@@ -1,2 +1,1 @@
-# awesome-pe-feature-extractor
-awesome-pe-feature-extractor
+# Awesome PE Feature Extractor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
