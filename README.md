@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://wiki.osdev.org/ELF">
+      <img width="90%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Portable_Executable_32_bit_Structure.svg" />
+    </a>
+</p>
+
 # Awesome [PE](https://en.wikipedia.org/wiki/Portable_Executable) (_[Portable Executable](https://youtube.com/playlist?list=PL9V4Zu3RroiU7nAvkoC3rN8Y6EQ_17X22&si=c5aU7aJbb4GHg8m-)_) [Feature](https://en.wikipedia.org/wiki/Feature_(machine_learning)) [Extractor](https://en.wikipedia.org/wiki/Comparison_of_executable_file_formats) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
@@ -12,6 +18,7 @@
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
+
 
 
 ### My Other Awesome Lists
