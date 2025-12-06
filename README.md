@@ -1,12 +1,15 @@
-<p align="center">
-    <a href="https://learn.microsoft.com/windows/win32/debug/pe-format">
-      <img width="90%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Portable_Executable_32_bit_Structure.svg" />
-    </a>
-</p>
+<div align="center">
+    <p align="center">
+        <a href="https://learn.microsoft.com/windows/win32/debug/pe-format">
+          <img width="90%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Portable_Executable_32_bit_Structure.svg" />
+        </a>
+    </p>
 
-# Awesome [PE](https://en.wikipedia.org/wiki/Portable_Executable) (_[Portable Executable](https://youtube.com/playlist?list=PL9V4Zu3RroiU7nAvkoC3rN8Y6EQ_17X22&si=c5aU7aJbb4GHg8m-)_) [Feature](https://en.wikipedia.org/wiki/Feature_(machine_learning)) [Extractor](https://en.wikipedia.org/wiki/Comparison_of_executable_file_formats) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [PE](https://wikipedia.org/wiki/Portable_Executable) (_Portable Executable_) [Feature](https://wikipedia.org/wiki/Feature_(machine_learning)) [Extractor](https://wikipedia.org/wiki/Comparison_of_executable_file_formats) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)]()
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiU7nAvkoC3rN8Y6EQ_17X22&si=c5aU7aJbb4GHg8m-)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
 
 <p align="center">
