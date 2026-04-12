@@ -27,6 +27,8 @@
 - [Contributors](#contributors)
 
 
+## Online Tools
+- [Manalyze](https://github.com/JusticeRage/Manalyze) - A static [analyzer](https://manalyzer.org/) for PE executables.
 
 ### My Other Awesome Lists
 You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
