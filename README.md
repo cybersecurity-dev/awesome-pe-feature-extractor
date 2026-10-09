@@ -21,6 +21,51 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+```mermaid
+flowchart TD
+
+    WIN["Windows Executable Ecosystem"]
+
+    WIN --> PE["PE<br/>(Portable Executable)<br/>Format"]
+
+    PE --> EXE["EXE Application"]
+    PE --> DLL["DLL Library"]
+    PE --> SYS["SYS Driver"]
+    PE --> CPL["CPL Control Panel"]
+    PE --> SCR["SCR Screensaver"]
+    PE --> OCX["OCX ActiveX"]
+    PE --> COM["COM Server"]
+    PE --> EFI["UEFI / EFI Module"]
+
+    WIN --> MSI["MSI Installer"]
+    WIN --> BAT["BAT Script"]
+    WIN --> PS1["PowerShell"]
+    WIN --> VBS["VBScript"]
+    WIN --> JS["JavaScript (WSH)"]
+    WIN --> LNK["Shortcut"]
+    WIN --> REG["Registry Script"]
+
+    MSI --> EXE
+    MSI --> DLL
+
+    EXE --> DLL
+    EXE --> COM
+
+    COM --> DLL
+    COM --> EXE
+
+    SYS --> KERNEL["Windows Kernel"]
+
+    LNK --> EXE
+    LNK --> BAT
+    LNK --> PS1
+
+    BAT --> CMD["cmd.exe"]
+    PS1 --> POWERSHELL["powershell.exe"]
+    VBS --> WSCRIPT["wscript.exe"]
+    JS --> WSCRIPT
+```
+
 ## 📖 Contents
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
