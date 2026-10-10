@@ -1,9 +1,14 @@
 <div align="center">
     <p align="center">
         <a href="https://learn.microsoft.com/windows/win32/debug/pe-format">
-          <img width="90%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Portable_Executable_32_bit_Structure.svg" />
+        <details>
+           <summary>PE FILE MAP</summary>
+          <img width="100%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Portable_Executable_32_bit_Structure.svg" />
+        </details>
         </a>
     </p>
+
+
 
 # **`Awesome`** [PE](https://wikipedia.org/wiki/Portable_Executable) (_Portable Executable_) [Feature](https://wikipedia.org/wiki/Feature_(machine_learning)) [Extractor](https://wikipedia.org/wiki/Comparison_of_executable_file_formats) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
@@ -71,6 +76,25 @@ flowchart TD
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+```text
+PE Format
+│
+├── EXE      (Executable Program)
+├── DLL      (Shared Library)
+├── SYS      (Kernel Driver)
+├── OCX      (ActiveX Control)
+├── CPL      (Control Panel Extension)
+├── SCR      (Screensaver)
+├── EFI      (UEFI Module)
+└── COM Server
+    ├── DLL-based
+    └── EXE-based
+MSI
+│
+├── Deploys EXE
+├── Deploys DLL
+└── Creates Services/Tasks
+```
 
 ## Online Tools
 - [Manalyze](https://github.com/JusticeRage/Manalyze) - A static [analyzer](https://manalyzer.org/) for PE executables.
